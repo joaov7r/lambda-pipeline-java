@@ -1,1 +1,3 @@
-# lambda-pipeline-java
+Programa desenvolvido para fixar os conhecimentos drante o estudo de Stream Pipelines. O programa lê um arquivo de texto, cujo caminho é digitado pelo usuário, que contém informações sobre produtos (nome e preço) separados por vírgula e imprime o maior preço, seguido da lista dos nomes dos produtos que tem o preço menor que a média apresentada.
+
+Program developed to consolidate knowledge during the study of Stream Pipelines. The program reads a text file, whose path is typed by the user, which contains information about products (name and price) separated by commas and prints the highest price, followed by the list of product names that have a price lower than the average shown. .
